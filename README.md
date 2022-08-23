@@ -4,8 +4,6 @@ Hi 👋 My name is Patrik Pilčík
 Web developer and designer
 --------------------------
 
-I've been coding for 2 years. I am a freelancer working on personal or small e-commerce websites, but my dream is to be a fullstack developer, so I am currently learning the backend.
-
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [pilcikpatrik@seznam.cz](mailto:pilcikpatrik@seznam.cz)
 * 🚀  I'm currently working on [My start-up](http://Notfound)
